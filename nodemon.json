@@ -1,0 +1,3 @@
+{
+  "ignore": ["docs/*.go", "docs/*.json", "docs/*.yaml"]
+}
